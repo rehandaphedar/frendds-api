@@ -1,0 +1,6 @@
+git.sr.ht/~rehandaphedar/frendds v0.0.0-20240918114555-5874161b015b h1:SAKYrGzcx3AP3MY2SJVhOCoVRdAqW0m/Nds+Cg4h0iA=
+git.sr.ht/~rehandaphedar/frendds v0.0.0-20240918114555-5874161b015b/go.mod h1:EdnaDT8bUSp8Z1H7ucbfLBV+TBALIk10zL34RRVEGOk=
+github.com/go-chi/chi/v5 v5.1.0 h1:acVI1TYaD+hhedDJ3r54HyA6sExp3HfXq7QWEEY/xMw=
+github.com/go-chi/chi/v5 v5.1.0/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 h1:e66Fs6Z+fZTbFBAxKfP3PALWBtpfqks2bwGcexMxgtk=
+golang.org/x/exp v0.0.0-20240909161429-701f63a606c0/go.mod h1:2TbTHSBQa924w8M6Xs1QcRcFwyucIwBGpK1p2f1YFFY=
